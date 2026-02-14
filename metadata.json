@@ -1,0 +1,7 @@
+{
+  "name": "GirlLookedFor You Luxury Salon",
+  "description": "Premium ladies' luxury boutique salon in Ottawa featuring high-end artistry by Janki Khatroja, AI consultations, and refined service management.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
